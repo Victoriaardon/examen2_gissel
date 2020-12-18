@@ -1,0 +1,139 @@
+@import url ('https://fonts.googleapis.com/css2? family = Catamaran: wght @ 800 & display = swap');
+
+:root{
+	--color-negro:#282d33;
+	--fondo-top:#000000;
+	--color-contenido:#898989;
+	--color-titulos:#282d33;
+	--fondo-gris: #f5f5f5;
+	
+}
+
+
+
+h1,h2,h3,h4,h5,p{
+	
+	font-family: 'Catamaran', sans-serif;
+}
+
+body{
+	font-size: Segoe UI;
+	font-size: 15px;
+	color: #777;
+}
+header{
+	position: relative;
+	background-color: #f9f9f9;
+	width: 100%;
+	top:0;	
+	
+}
+
+
+#Own{
+	background-image:url("file:///C:/Users/ardon/OneDrive/Documents/examen2/img/home-slide.jpg");
+	background-size: 1200px 800px;;
+	background-repeat: no-repeat;
+	padding-bottom: 300px;
+	background-position: 200px;
+	
+	
+	
+}
+
+#Get{
+	padding-top: 150px;
+	padding-bottom: 150px;
+}
+
+#Get h2{
+	color: #282d33;
+	font-size: 50px;
+	text-align: center
+}
+
+#Get h5{
+	text-align: center;
+	font-size: 20px;
+	
+}
+
+
+#imagenes{
+	padding-top:50px;
+	padding-bottom: 50px;
+	background-color:#898989;
+}
+#Get h4{
+	text-align: center;
+}
+#Get p{
+	text-align: center
+}
+#own{
+	background-color:#F9F9F9;
+
+}
+
+#Tons{
+	
+	background-color:#FFFFFF;
+}
+
+#Flexi{
+	background-image:url("../img/product-parallax-2.jpg");
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	text-align: left
+}
+
+#Flexi h2{
+	color: white;
+}
+
+.over{
+	
+	background-color: rgba(0,0,0,0.40);
+	padding: 12% 0;
+}
+#Show{
+	
+	background-image: url("../img/product-parallax.jpg");
+	background-position: center;
+	background-size: cover;
+	text-align: center;
+	color: #FFFFFF;
+	background-attachment: fixed;
+}
+#Show p{
+	
+	color: #898989;
+}
+#Show h1{
+	
+	font-size: 80px;
+}
+
+#Show h3{
+	font-size: 30px;
+	
+	
+}
+.overlay{
+	background-color: rgba(0,0,0,0.40);
+	padding: 12% 0;
+}
+
+footer{
+	background-color: #30363d;
+	padding: 30px;
+	color: #999;
+	text-align: center;
+	font-size: 13px;
+	font-weight: 600;
+}
+footer p{
+	margin-bottom: 0;
+}
+
